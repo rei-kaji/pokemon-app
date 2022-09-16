@@ -80,6 +80,7 @@ function App() {
   return (
     <>
       <Navbar />
+      {/* if you want to make searching function, you can use it. */}
       {/* <input type="search" id="search" />
       <input type="submit" value="Button" onClick={searchPokemon} /> */}
       <div className="App">
